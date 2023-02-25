@@ -2,7 +2,7 @@
 
 ## Description
 
-This Prework Study Guide was created to hold notes that were taken while going through the Prework all condensed into a webpage. These are notes that were taken while going through the Prework and is available for other boot camp students to review some of the basics of HTML, CSS, Git and JavaScript. 
+This Prework Study Guide was created to hold notes that were taken while going through the Prework all condensed into a webpage. These are notes are available for other boot camp students to review some of the basics of HTML, CSS, Git and JavaScript. 
 
 ## Installation
 
